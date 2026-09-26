@@ -233,5 +233,10 @@
   "wrong": "駅まで十分歩きますかかる。",
   "correct": "駅まで歩いて十分かかる。",
   "explanation": "Use natural collocation and order. (Pattern set 3)"
+  },
+  {
+  "wrong": "私は昨日東京に行きます。",
+  "correct": "私は昨日東京に行きました。",
+  "explanation": "Use past tense for past actions. (Pattern set 4)"
   }
 ]
